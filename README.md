@@ -154,8 +154,8 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Adam Umar Faruq
-Adeoye Ajarat Abisola
+Mohammed Mohammed Awwal
+Umar Tukue
 
 ## License
 Public Domain. No copy write protection. 
